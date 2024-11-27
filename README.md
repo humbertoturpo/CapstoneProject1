@@ -103,6 +103,6 @@ Peru, as a global leader in ginger exports, requires accurate short-term forecas
 
 ## **Contact and Further Information**
 **Humberto Sebastian Turpo Huaman**  
-[sebastian.turpo]  
+[sebastian.turpo@gmail.com]  
 
 ---
