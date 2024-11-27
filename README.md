@@ -12,6 +12,26 @@ This project predicts Peru's monthly ginger exports through short-term forecasti
 ## **Rationale**
 Peru, as a global leader in ginger exports, requires accurate short-term forecasting tools to manage supply chains and anticipate demand. Integrating search behavior from the prior month offers timely, actionable insights to enhance trade decisions.
 
+## References
+
+
+1. **Collison (2020)**  
+   *Performance Assessment of Google Trend Index in Forecasting Car Sales in Argentina*.  
+   Published on *SSRN*.  
+   - **Enhanced R-squared:** From 0.283 to 0.495 by incorporating Google Trends data.
+
+2. **Başyiğit (2021)**  
+   *Can Google Trends Improve the Marble Demand Model: A Case Study of USA's Marble Demand from Turkey*.  
+   Published in *Resource Policy*.  
+   - **Increased R-squared:** From 0.85 to 0.90 when integrating search trends.
+
+3. **Yu et al. (2019)**  
+   *Online Big Data-Driven Oil Consumption Forecasting with Google Trends*.  
+   Published in *International Journal of Forecasting*.  
+   - **Improvement in R-squared:** Up to 4% with advanced machine learning techniques like Extreme Machine Learning.
+
+
+
 ---
 
 ## **Research Question**
