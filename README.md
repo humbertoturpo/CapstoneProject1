@@ -111,13 +111,14 @@ Peru, a leading global exporter of ginger, faces challenges in accurately foreca
 | **Baseline (Lag Only)** | 0.7276    | -            | -           | Relies solely on lagged data, missing variability. |
 | **Multiple Linear Regression**  | 0.7845    | 929,083.47   | 733,865.00  | Benefits from additional predictors.           |
 | **Lasso Regression**   | 0.8457    | 782,395.13   | 636,855.11  | Most accurate model with effective feature selection. |
-| **Ridge Regression**   | 0.8356    | 806,033.33   | 667,165.05  | Stable performance, slightly less accurate than Lasso. |
+| **Ridge Regression**   | 0.8356    | 806,033.33   | 667,165.05  | Only include lags.  |
 
 ---
 
 ### **Feature Importance**
+- **Multiple linear regression**: Web and Images  searches from the previous month dominate as predictive features, reflecting timely shifts in market demand.  
 - **Lasso Regression**: Web and YouTube searches from the previous month dominate as predictive features, reflecting timely shifts in market demand.  
-- **Ridge Regression**: More balanced feature contributions capture secondary trends from Image and News searches.
+- **Ridge Regression**: Only include lags.
 
 ---
 
