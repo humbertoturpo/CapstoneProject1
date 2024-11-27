@@ -73,7 +73,7 @@ Peru, a leading global exporter of ginger, faces challenges in accurately foreca
 
 ## **Results**
 
-### **Baseline Model**
+### **Baseline Model - Simple Linear Regression (No ML Involved)**
 - **R-squared**: 0.7276  
 - **Observations**: The baseline model captures general trends but lacks precision in capturing variability, relying solely on lagged exports.
 
