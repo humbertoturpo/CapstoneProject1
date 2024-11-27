@@ -94,14 +94,17 @@ Google Trends indicators align well with seasonal peaks in ginger exports, highl
 ---
 
 ## **Outline of Project**
-- [Notebook 1: Data Preprocessing and Analysis]()  
-- [Notebook 2: Model Training and Evaluation]()  
-- [Notebook 3: Results and Visualization]()  
+[Dataset](https://github.com/humbertoturpo/CapstoneProject1/blob/main/data/gingerperu2.xlsx)
 
----
+[Notebook](https://github.com/humbertoturpo/CapstoneProject1/blob/main/GingerGoogleTrendsPeru.ipynb)
+
+
+
+
+
 
 ## **Contact and Further Information**
 **Humberto Sebastian Turpo Huaman**  
-[Your Contact Information]  
+[sebastian.turpo]  
 
 ---
