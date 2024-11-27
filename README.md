@@ -84,7 +84,7 @@ Peru, a leading global exporter of ginger, faces challenges in accurately foreca
 
 ### **Enhanced Models with Google Trends Data**
 
-#### **Linear Regression with Google Trends**
+#### **Multiple Linear Regression with Google Trends**
 - **R-squared**: 0.7845  
 - **RMSE**: 929,083.47  
 - **MAE**: 733,865.00  
