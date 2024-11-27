@@ -12,6 +12,22 @@ This project predicts Peru's monthly ginger exports through short-term forecasti
 ## **Rationale**
 Peru, as a global leader in ginger exports, requires accurate short-term forecasting tools to manage supply chains and anticipate demand. Integrating search behavior from the prior month offers timely, actionable insights to enhance trade decisions.
 
+
+### Variables
+
+- **Exports**: Represents the monthly ginger export volumes from Peru.
+- **Exports12**: Refers to lagged data of export volumes, specifically a 12-month lag.
+- **Web**: Indicates lagged search interest data from general web searches associated with food and beverage topics, representing the previous month.
+- **YouTube**: Refers to lagged search interest data from YouTube, capturing food and beverage-related trends from the prior month.
+- **Images**: Represents lagged search interest data from image-based searches related to food and beverage, conducted a month earlier.
+- **News**: Refers to lagged search interest data from news-related searches about food and beverage, reflecting public interest from the previous month.
+
+### Description of Tags
+- The **Exports** tag provides the primary dependent variable for forecasting.
+- All other tags (Exports12, Web, YouTube, Images, News) are lagged variables, capturing trends from one month prior. These lagged indices specifically track online searches related to food and beverage topics, enabling predictive modeling by aligning consumer search behavior with subsequent export activities.
+
+
+
 ### References
 
 
