@@ -81,8 +81,6 @@ Peru, as a global leader in ginger exports, requires accurate short-term forecas
 
 ---
 
-### **Seasonality Insights**
-Google Trends indicators align well with seasonal peaks in ginger exports, highlighting their potential as early demand signals. Web and YouTube searches exhibit the strongest correlation with export volumes during peak months.
 
 ---
 
