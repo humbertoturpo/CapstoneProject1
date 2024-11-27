@@ -88,7 +88,7 @@ Peru, a leading global exporter of ginger, faces challenges in accurately foreca
 - **R-squared**: 0.7845  
 - **RMSE**: 929,083.47  
 - **MAE**: 733,865.00  
-- **Observations**: Google Trends indicators provide moderate improvement over the baseline, especially during high-variability months.
+- **Observations**: Google Trends indicators(except YouTube) provide moderate improvement over the baseline, especially during high-variability months.
 
 #### **Lasso Regression**
 - **R-squared**: 0.8457  
