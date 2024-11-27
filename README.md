@@ -58,7 +58,11 @@ B. **Yu et al. (2019)**
 - All other tags (Exports12, Web, YouTube, Images, News) are lagged variables, capturing trends from one month prior. These lagged indices specifically track online searches related to food and beverage topics, enabling predictive modeling by aligning consumer search behavior with subsequent export activities.
 
 
-
+   | Feature             | Unit       |
+   |---------------------|------------|
+   | Exports             | kg         |
+   | Exports12           | kg         |
+   | Search Indices      | Unitless   |
 
 ---
 
