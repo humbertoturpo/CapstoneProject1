@@ -109,7 +109,7 @@ Peru, a leading global exporter of ginger, faces challenges in accurately foreca
 | Model                | R-squared | RMSE         | MAE         | Observations                                    |
 |----------------------|-----------|--------------|-------------|------------------------------------------------|
 | **Baseline (Lag Only)** | 0.7276    | -            | -           | Relies solely on lagged data, missing variability. |
-| **Linear Regression**  | 0.7845    | 929,083.47   | 733,865.00  | Benefits from additional predictors.           |
+| **Multiple Linear Regression**  | 0.7845    | 929,083.47   | 733,865.00  | Benefits from additional predictors.           |
 | **Lasso Regression**   | 0.8457    | 782,395.13   | 636,855.11  | Most accurate model with effective feature selection. |
 | **Ridge Regression**   | 0.8356    | 806,033.33   | 667,165.05  | Stable performance, slightly less accurate than Lasso. |
 
