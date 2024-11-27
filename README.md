@@ -10,7 +10,8 @@ This project predicts Peru's monthly ginger exports through short-term forecasti
 ---
 
 ## **Rationale**
-Peru, as a global leader in ginger exports, requires accurate short-term forecasting tools to manage supply chains and anticipate demand. Integrating search behavior from the prior month offers timely, actionable insights to enhance trade decisions.
+Peru, a leading global exporter of ginger, faces challenges in accurately forecasting monthly export volumes to optimize supply chain management and meet global demand. Traditional models relying solely on lagged export data often fail to capture dynamic shifts in market interest. Emerging research highlights the predictive power of online search data, particularly Google Trends, in improving trade forecasting. Studies across various industries, such as Brazilian soybean exports and Turkish marble demand, have demonstrated significant R-squared improvements when integrating search indices.
+
 
 
 ### Variables
