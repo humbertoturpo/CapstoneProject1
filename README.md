@@ -12,7 +12,7 @@ This project predicts Peru's monthly ginger exports through short-term forecasti
 ## **Rationale**
 Peru, as a global leader in ginger exports, requires accurate short-term forecasting tools to manage supply chains and anticipate demand. Integrating search behavior from the prior month offers timely, actionable insights to enhance trade decisions.
 
-## References
+### References
 
 
 1. **Collison (2020)**  
